@@ -1,0 +1,18 @@
+
+yaakov681@yaakov681-VirtualBox:~$ cd Desktop
+yaakov681@yaakov681-VirtualBox:~/Desktop$ mkdir Practice03
+yaakov681@yaakov681-VirtualBox:~/Desktop$ cd Practice03
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ touch first.txt
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ chmod 666 first.txt
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ mv first.txt one.txt
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ chmod 000 one.txt
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ mkdir FolderToDealte
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ cdFolderTpDealte
+cdFolderTpDealte: command not found
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ cd FolderToDealte
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03/FolderToDealte$ touch a.txtb.txt c.txt
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03/FolderToDealte$ cd ..
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ rm -r FolderToDealte
+yaakov681@yaakov681-VirtualBox:~/Desktop/Practice03$ 
+
+
